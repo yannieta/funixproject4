@@ -1,0 +1,17 @@
+.navbar-brand {
+    font-family: 'Charmonman', cursive;
+}
+
+p,
+a,
+li {
+    font-family: 'Raleway', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'Montserrat', sans-serif;
+}
